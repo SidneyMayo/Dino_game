@@ -1,2 +1,3 @@
 # Dino_game
-recriando o jogo do dinossauro do google
+projeto de recriação do jogo do dinossauro do google pela Digital Innovation One 
+ministrado pelo professor Celso Henrique
